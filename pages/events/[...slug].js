@@ -1,9 +1,9 @@
-const EventsMoreDetails = () => {
+const FilteredEvents = () => {
     return (
         <div>
-            <h1>More Details to the event</h1>
+            <h1>Filtered Events</h1>
         </div>
     );
 }
  
-export default EventsMoreDetails;
+export default FilteredEvents;
