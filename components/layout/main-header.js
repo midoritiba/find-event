@@ -3,7 +3,7 @@ import styles from './main-header.module.css'
 
 const MainHeader = () => {
     return (
-        <header>
+        <header className={styles.header}>
             <div className={styles.logo}>
                 <Link href='/'>Next Events</Link>
             </div>
