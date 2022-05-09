@@ -1,5 +1,7 @@
 # Find Events APP
 Search Events App
+<br>
+https://find-event.vercel.app/
 ### Project build with Next.js & React.js
 
 - Page components
@@ -9,3 +11,4 @@ Search Events App
 - access to data encoded in the URL
 
 *images from pexels*
+**deployed on vercel**
