@@ -16,7 +16,7 @@ const events = [
         "We offer a solid introduction to product development, product design and product management.",
       location: 'Indaiatuba 15 Street, 12233666 Sao Jose dos Campos',
       date: '2022-07-30',
-      image: 'images/introvert-event.jpg',
+      image: 'images/women-event.jpg',
       isFeatured: true,
     },
     {
@@ -31,12 +31,12 @@ const events = [
     },
     {
       id: 'e4',
-      title: 'Branching AND Iteration,
+      title: 'Branching AND Iteration',
       description:
         ' In this lecture, Dr. Fujisawa introduces strings and indentation in Python, then discusses basic features of programmatic logic, such as branching, conditionals, iteration, and loops.',
       location: 'Rio Verde Street 2, 13237460 Salvador',
       date: '2023-04-11',
-      image: 'images/extrovert-event.jpg',
+      image: 'images/branching-event.jpg',
       isFeatured: true,
     },
   ];
