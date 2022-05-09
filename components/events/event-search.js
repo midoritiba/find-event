@@ -3,6 +3,7 @@ import styles from './event-search.module.css'
 import { useRef } from 'react'
 
 const EventSearch = (props) => {
+    
     const yearInputRef = useRef()
     const monthInputRef = useRef()
 
