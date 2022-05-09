@@ -2,10 +2,10 @@
     text-decoration: none;
     cursor: pointer;
     font: inherit;
-    background-color: #D98014;
-    border: 1px solid #D98014;
+    background-color: #6F5370;
+    border: 1px solid #6F5370;
     border-radius: 6px;
-    color: #dafff7;
+    color: white;
     padding: 0.5rem 1.5rem;
     text-align: center;
     box-shadow: 0 1px 6px rgba(0, 0, 0, 0.2);
@@ -13,6 +13,6 @@
   
   .btn:hover,
   .btn:active {
-    background-color: #F2A922;
-    border-color: #F2A922;
+    background-color: #BCB1BD;
+    border-color: #BCB1BD;
   }

@@ -1,5 +1,11 @@
 # Find Events APP
+Search Events App
+### Project build with Next.js & React.js
 
-Project build with Next.js
+- Page components
+- useRouter() with next/router
+- slug routing
+- single dynamic parameter routes
+- access to data encoded in the URL
 
 *images from pexels*
